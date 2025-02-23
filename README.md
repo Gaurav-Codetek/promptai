@@ -13,6 +13,10 @@ Prompt-AI is a library that automates AI-powered newsletter generation. It scrap
 
 ---
 
+## Docs link
+- promptai (PyPi) - [Docs](https://pypi.org/project/prompt-ai/) 
+- promptai (NPM) -  [Docs](https://www.npmjs.com/package/promptai)
+
 ## Installation
 
 ### Python
