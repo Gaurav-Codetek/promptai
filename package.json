@@ -1,6 +1,6 @@
 {
   "name": "promptai",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Prompt-AI is a Python library that automates the process of generating AI-powered newsletters. It scrapes content from a given URL, generates a structured newsletter using Google's Gemini API, and provides features for parsing content, sending emails, and creating blog page links.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Gaurav Patel",
-  "license": "MIT",
+  "license": "OSI Approved :: MIT License",
   "type":"module",
   "repository": {
     "type": "git",
